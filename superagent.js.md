@@ -1,6 +1,6 @@
 # Superagent.js
 
-So, the superagent.js library is really worth to be looked at. Here is why:
+So, the superagent.js library is worth to be looked at. Here is why:
 
 
 ### Simple, lightweight, explicit.
